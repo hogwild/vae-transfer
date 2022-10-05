@@ -162,5 +162,8 @@ cython_debug/
 *.jpg
 *.png
 *.pkl
+*.err
+*.out
+*.sh
 results_rec/
 results_gen/
